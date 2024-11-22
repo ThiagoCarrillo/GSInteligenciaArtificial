@@ -2,7 +2,7 @@
 ## Renewable Energy Analysis and Classification
 Este projeto visa analisar e prever tendências no uso de energia renovável com base em um conjunto de dados global. Ele inclui análise exploratória, visualização de dados, cálculo de métricas de crescimento e classificação das tendências de uso.
 
-##Funcionalidades do Projeto
+## Funcionalidades do Projeto
 ### Análise Exploratória de Dados (EDA):
 Leitura e limpeza de dados para eliminar colunas irrelevantes e valores ausentes.
 Descrição estatística das variáveis.
