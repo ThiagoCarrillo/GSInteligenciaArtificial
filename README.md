@@ -42,7 +42,7 @@ Estatísticas detalhadas sobre o dataset.
 Relatório de classificação do modelo de Machine Learning.
 ### Acurácia do modelo.
 
-## LINK DO VIDEO: 
+## LINK DO VIDEO: https://www.youtube.com/watch?v=rScpvf31ZMA
 
 #### Thiago Carrillo RM553565 - 2TDSPS
 #### Igor Oviedo RM553434 - 2TDSPS
